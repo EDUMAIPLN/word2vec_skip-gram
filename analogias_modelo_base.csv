@@ -1,0 +1,9 @@
+analogía,esperado,top-3,acierto top-1,en top-3
+parís : francia :: madrid : ?,españa,"españa (1.00), italia (1.00), roma (0.89)",✔,✔
+parís : francia :: roma : ?,italia,"españa (1.00), italia (1.00), madrid (0.89)",✘,✔
+madrid : españa :: parís : ?,francia,"italia (1.00), francia (1.00), palacio (0.88)",✘,✔
+perro : perra :: gato : ?,gata,"gata (0.96), hermana (0.66), cacao (0.66)",✔,✔
+rey : reina :: padre : ?,madre,"madre (0.85), revista (0.84), niña (0.78)",✔,✔
+niño : niña :: médico : ?,médica,"enfermera (0.95), médica (0.90), ayuda (0.83)",✘,✔
+hermano : hermana :: abuelo : ?,abuela,"abuela (0.97), pasea (0.89), trabajas (0.83)",✔,✔
+ingeniero : ingeniera :: programador : ?,programadora,"programadora (0.97), alumna (0.83), código (0.80)",✔,✔

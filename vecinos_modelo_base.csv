@@ -1,0 +1,11 @@
+,vecino 1,vecino 2,vecino 3,vecino 4,vecino 5,vecino 6
+perro,gato (0.78),ladra (0.75),perra (0.73),hermano (0.70),fuerte (0.69),ratón (0.69)
+gata,perra (0.85),gato (0.71),cuerda (0.70),hermana (0.70),cacao (0.70),entro (0.69)
+coche,conductor (0.84),pintor (0.80),cuadro (0.78),verano (0.77),invierno (0.75),lento (0.75)
+parís,madrid (1.00),roma (1.00),francia (0.89),españa (0.89),italia (0.88),ciudad (0.82)
+francia,italia (1.00),españa (1.00),parís (0.89),palacio (0.89),roma (0.88),madrid (0.88)
+rey,reina (0.79),suelo (0.75),cuaderno (0.75),patio (0.74),campo (0.74),sofá (0.74)
+médico,enfermero (0.98),bebé (0.85),ellas (0.80),alumno (0.77),escucha (0.76),maestro (0.76)
+café,té (0.94),camarero (0.79),ruido (0.76),humo (0.75),helado (0.75),chocolate (0.74)
+padre,revista (0.84),periódico (0.82),madre (0.82),correr (0.81),leer (0.80),niño (0.80)
+lunes,sábados (1.00),martes (0.99),mercado (0.95),museo (0.89),pantalones (0.88),son (0.87)
